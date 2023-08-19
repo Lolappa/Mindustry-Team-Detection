@@ -1,0 +1,7 @@
+name: "team-detector"
+displayName: "Team Detector"
+author: Lolappa
+description: "Shows the teams of every player and more"
+version: "1.0"
+minGameVersion: "145.1"
+hidden: true
